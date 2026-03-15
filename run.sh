@@ -1,0 +1,1 @@
+nohup java -jar HSO.jar > server.log 2>&1 &
